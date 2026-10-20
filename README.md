@@ -4,6 +4,16 @@
 - 💞️ I’m looking to collaborate on QGis and AR/XR
 - 📫 How to reach me [weixuchen.xyz](https://weixuchen.xyz)
 
+## Hi微笑 AI 眼镜
+
+面向微笑科技 AI 眼镜的 Android 伴侣应用，覆盖设备连接、AI 助手、翻译、媒体相册与设备管理。
+
+[查看项目与完整演示](https://github.com/mmf1ne/smiletech-ai-glasses)
+
+<div align="center">
+  <img src="assets/smiletech-connected-demo-preview.gif" width="360" alt="Hi微笑 AI 眼镜模拟连接与使用演示，自动循环播放">
+</div>
+
 <!---
 mmf1ne/mmf1ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
