@@ -6,7 +6,7 @@
 
 ## Hi微笑 AI 眼镜
 
-面向微笑科技 AI 眼镜的 Android 伴侣应用，覆盖设备连接、AI 助手、翻译、媒体相册与设备管理。
+面向微笑科技 AI 眼镜的 Android 伴侣应用，覆盖模拟设备连接、AI 助手、翻译、录音与会议纪要、时间轴相册及设备管理。
 
 [查看项目与完整演示](https://github.com/mmf1ne/smiletech-ai-glasses)
 
